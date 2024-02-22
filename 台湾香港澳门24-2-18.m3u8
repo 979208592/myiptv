@@ -1,0 +1,217 @@
+﻿#EXTM3U
+#EXTINF:-1 ,CCTV1
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+#EXTINF:-1 ,CCTV1
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 ,CCTV2
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+#EXTINF:-1 ,CCTV2
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 ,CCTV4
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
+#EXTINF:-1 ,CCTV5
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+#EXTINF:-1 ,CCTV5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 ,CCTV6
+http://36.96.38.246:8888/newlive/live/hls/8/live.m3u8
+#EXTINF:-1 ,CCTV7
+http://111.207.22.10:8888/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 ,CCTV8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+#EXTINF:-1 ,CCTV8
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:-1 ,CCTV9
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+#EXTINF:-1 ,CCTV10
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
+#EXTINF:-1 ,CCTV13
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+#EXTINF:-1 ,CCTV13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=1635962688
+#EXTINF:-1 ,CCTV14
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
+#EXTINF:-1 ,CCTV15
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
+#EXTINF:-1 ,CCTV16
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+#EXTINF:-1 ,广东汕头综合高清
+http://211.97.63.3:801/hls/81/index.m3u8
+#EXTINF:-1 ,广东 广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721
+#EXTINF:-1 ,广东 广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
+#EXTINF:-1 ,广东经济科教
+https://epg.pw/stream/92d2fa1304545640f7fd0d67aef94454f51f05a0cb77d0825f446954857c899a.m3u8
+#EXTINF:-1 ,广东梅州公共
+http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv2.m3u8
+#EXTINF:-1 ,广东梅州综合
+http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv1.m3u8
+#EXTINF:-1 ,广东卫视
+https://epg.pw/stream/79202aa439fc4fb94a8304f8608737f7cff1626f2b42aa6d5552ecfc2bcacbaf.m3u8
+#EXTINF:-1 ,广东文化
+https://epg.pw/stream/0991386bc3dca2df2b5b7023ff8d183e388c889c70010c8dcf569b0796ad7f9b.m3u8
+#EXTINF:-1 ,广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8
+#EXTINF:-1 ,广东珠江
+https://epg.pw/stream/2419c6ca4dac89689f5bab479a71bcfac926d7c7b5133c1b08c19f1a0d557828.m3u8
+#EXTINF:-1 ,深圳卫视
+https://epg.pw/stream/d379428ff38217ba5212dcd1949647ac1e4382f306b14a380bf60b7b056b4a2b.m3u8
+#EXTINF:-1 ,TVB星河
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 ,香港32台
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1 ,香港面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 ,香港有线新闻
+http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+#EXTINF:-1 ,香港开电视
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 ,电影沈腾周星驰
+http://hlsa-akm.douyucdn.cn/85894rmovieChow_4000p.m3u8
+#EXTINF:-1 ,民视新闻台
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 ,TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 ,TVBS新闻台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 ,民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 ,民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 ,台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 ,人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 ,人间卫视
+https://epg.pw/stream/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8
+#EXTINF:-1 ,人间卫视
+https://epg.pw/stream/925df6e71c4dd75f935dbe02200a19e3893eea0a125da4d28447546e7a8bd092.m3u8
+#EXTINF:-1 ,香港卫视
+http://anren.live/HK/BSJDUFpB.m3u8
+#EXTINF:-1 ,苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 ,青海卫视
+http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
+#EXTINF:-1 ,青海卫视
+http://stream.qhbtv.com/qhws/sd/live.m3u8
+#EXTINF:-1 ,影院4k
+http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 ,凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,凤凰中文
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+#EXTINF:-1 ,耀才财经新闻
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+#EXTINF:-1 ,安徽卫视
+https://epg.pw/stream/374964dc3b58da589696eefdd26cdeb52f65fa99450090a5200902f371fbcc0b.m3u8
+#EXTINF:-1 ,北京卫视
+https://epg.pw/stream/ed16a4cd210c9f9d6204ddc6fb5def63a1c54b60114fb61679e61363edea068b.m3u8
+#EXTINF:-1 ,大湾区卫视
+https://epg.pw/stream/0b369442033524237d3fe856d8e71f5b18cb1be14e29ffdbaf45fc7f5802e165.m3u8
+#EXTINF:-1 ,东方卫视
+https://epg.pw/stream/96fb4677915219a69c151563855a231f0b7d6e7392e403e66e40af920843cb68.m3u8
+#EXTINF:-1 ,东南卫视
+https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8
+#EXTINF:-1 ,广西广西卫视
+http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 ,广西广西卫视
+https://epg.pw/stream/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8
+#EXTINF:-1 ,海南卫视
+https://epg.pw/stream/55e62d831217f1412d58379dd9b23176a814d8d68d681e96be98fdd0d13e8949.m3u8
+#EXTINF:-1 ,海南卫视
+https://epg.pw/stream/aca92f29b037e10ca6269efaac3256d74f58f978324d34937dc8eb1b35f2f780.m3u8
+#EXTINF:-1 ,河北卫视
+https://epg.pw/stream/3d72ae947c8d574411b9d26bc49ef1b6e8c2c5bf3a55c97df0b37f0af5080a99.m3u8
+#EXTINF:-1 ,河南卫视
+https://epg.pw/stream/ea842ab34e6da31e0eae5bd8be6c4b7d67f0b0c214efaca7ff2c5a1718f7fe55.m3u8
+#EXTINF:-1 ,黑龙江卫视
+https://epg.pw/stream/14635f6da7f307203fb5d584e7e7211345f8830ee5b55b49545904ad1efa2202.m3u8
+#EXTINF:-1 ,湖北卫视
+https://epg.pw/stream/a168d5ee9a5535ed5d363fe5b921fc96b8e59faeb98d0a1780505ad1384b0a00.ctv
+#EXTINF:-1 ,湖南卫视
+https://epg.pw/stream/ef71867a8644735b09f5399278a3ce67b0cd46e1100159c789b9240a5bf4c2bb.m3u8
+#EXTINF:-1 ,吉林卫视
+http://stream1.jlntv.cn/jlws/playlist.m3u8
+#EXTINF:-1 ,吉林卫视
+https://epg.pw/stream/22f49f6cc5d4507fe7561272a5f67015ea4dd951b3c9af54ba41ed11413314ac.m3u8
+#EXTINF:-1 ,吉林延边卫视
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+#EXTINF:-1 ,吉林延边卫视
+http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
+#EXTINF:-1 ,康巴卫视
+http://111.202.12.159:8080/3zvkK28/1000/live.m3u8
+#EXTINF:-1 ,康巴卫视
+http://111.202.12.159:8080/kYGHWzA/1000/live.m3u8
+#EXTINF:-1 ,辽宁卫视
+https://epg.pw/stream/4fa75925fb00aa051c6819346628eb0cd8bafd14f8231c9166b8a5209111db07.m3u8
+#EXTINF:-1 ,旅游卫视
+https://epg.pw/stream/0a7895ab7d245925f9fe1bdcb3714e269b6ce032323f8acc84b36071893c0d78.m3u8
+#EXTINF:-1 ,南方卫视
+https://epg.pw/stream/a97a516f7363243adcf989db5a8ec00df8ecec1f7446e083d9b48c6952378cee.m3u8
+#EXTINF:-1 ,内蒙古卫视
+https://epg.pw/stream/e212327b7c2e76e147fccb25dc9887f938ba88b1399772e06b6ee1bf13196749.m3u8
+#EXTINF:-1 ,宁夏卫视
+https://epg.pw/stream/25836b8e9d3ebc71188267308c1d9723866f2eeea5a549dbe695904fac5afabb.m3u8
+#EXTINF:-1 ,农林卫视
+http://111.20.35.103:6610/yinhe/2/ch00000090990000001312/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 ,农林卫视
+https://epg.pw/stream/4077b634357ba9d803a73e3e8ad32f596c99099b3e93ccc2707938d8b5980c5f.m3u8
+#EXTINF:-1 ,青海安多卫视
+http://stream.qhbtv.com/adws/sd/live.m3u8
+#EXTINF:-1 ,青海青海卫视
+http://stream.qhbtv.com/qhws/playlist.m3u8
+#EXTINF:-1 ,青海卫视
+http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
+#EXTINF:-1 ,青海卫视
+http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
+#EXTINF:-1 ,青海卫视
+https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.m3u8
+#EXTINF:-1 ,三沙卫视
+https://epg.pw/stream/fc49c564c870b78b1a3655d913ca8a4fe4e31f58db2da34caedc0761a3e51256.m3u8
+#EXTINF:-1 ,山东卫视
+https://epg.pw/stream/6e0b6e5fe80e21289c27ceeafced6800e23f6c48ade127aa20eb2712aebd2b2a.m3u8
+#EXTINF:-1 ,山西卫视
+https://epg.pw/stream/2f538e8c3c3dc60b99799fb3331f5f05b5a9c3c574544b4178a57a7de78f6884.m3u8
+#EXTINF:-1 ,山西卫视
+https://epg.pw/stream/4c472153069c51068d748a0b625f43183bf5335518d1d91e636ebedbf63eec1c.m3u8
+#EXTINF:-1 ,陕西卫视
+http://111.20.35.103:6610/yinhe/2/ch00000090990000001559/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 ,四川卫视
+https://epg.pw/stream/1c0eb3801da20b27d69132be81250ce154a4d7befac91af93af8f5635cb28797.m3u8
+#EXTINF:-1 ,天津卫视
+https://epg.pw/stream/a6742c93cfbe45322b12fce389c8b3f1e2d4873b8d8a0a8651fd76d14d8d1ef7.m3u8
+#EXTINF:-1 ,西藏卫视
+https://epg.pw/stream/adc4e4569c125b1f0517c0e3c0e584944415c2e0f07acdfa18cd9ec1596ce733.m3u8
+#EXTINF:-1 ,新疆卫视
+https://epg.pw/stream/580006792a3173dd2e20eef78805ee8bb30b7b7a617f76e8032af5407d3c5ca4.m3u8
+#EXTINF:-1 ,延边卫视
+http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
+#EXTINF:-1 ,延边卫视
+https://epg.pw/stream/8513d45e18cb11230fa6cf876c3420e6f9ab9a09ced9b0b849641eb890783727.m3u8
+#EXTINF:-1 ,云南卫视
+http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
+#EXTINF:-1 ,云南卫视
+https://epg.pw/stream/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.m3u8
+#EXTINF:-1 ,重庆卫视
+https://epg.pw/stream/ab652effca726310b82c8a321edfa861029f896ef612cbed788dd4c907c075aa.m3u8
+#EXTINF:-1 ,CCTV10
+https://epg.pw/stream/309ab7d12a6185c4f927128b0668be27e961d1378fab6c9b97bc432637488032.m3u8
+#EXTINF:-1 ,CCTV11
+https://epg.pw/stream/cc139f7b6cc7982dcb9aec38c6a7fae77df586b213f7f2eb00210601da8d1f68.m3u8
+#EXTINF:-1 ,CCTV12
+https://epg.pw/stream/8a523a53982bb6b640ce395311f5fe3cd08586e02f5d7863f217f200fdcfec96.m3u8
+#EXTINF:-1 ,CCTV13
+https://epg.pw/stream/312161e735b97af4f73d44eebae6f624183b7f2ce71c479dc58fd74196e34399.m3u8
+#EXTINF:-1 ,CCTV14（720p）
+https://epg.pw/stream/cbe825bf5f80f456b334a01413e11a83d5e5815a60ab7ab9367b5749adb15d29.m3u8
+#EXTINF:-1 ,CCTV14
+https://epg.pw/stream/16ca9a637ef506efd7d36e616488b0137002926d26f62f31c660b1657f09d858.m3u8
+#EXTINF:-1 ,CCTV15
+https://epg.pw/stream/3a0e178ff62001411588df93da0de2bd38a1573807d16914cce8bbf65abcf074.m3u8
